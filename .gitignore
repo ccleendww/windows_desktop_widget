@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE files
+.vscode/
+
+# Nuitka build and distribution directories
+widget.build/
+widget.dist/
+Output/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Other
+*.spec

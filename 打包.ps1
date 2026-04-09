@@ -1,0 +1,1 @@
+python -m nuitka --standalone --plugin-enable=pyside6 --windows-console-mode=disable widget.py
