@@ -1,0 +1,1 @@
+windows desktop widget based on pyside6
